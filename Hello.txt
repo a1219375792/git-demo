@@ -4,15 +4,4 @@ Second
 
 Third
 
-
-master --Test
-
-hot-fix Test
-
-public class HelloWorld{
-    public void doSome(){
-        System.out.println("HELLO");
-    }
-}
-
-
+不使用SSH协议推送，需要登录
